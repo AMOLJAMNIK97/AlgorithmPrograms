@@ -8,7 +8,7 @@ namespace AlgorithmPrograms
 {
     public class Binary
     {
-        public static void Main()
+        public static void seach()
         {
             //list Creation
             List<string> Geek = new List<string>();
