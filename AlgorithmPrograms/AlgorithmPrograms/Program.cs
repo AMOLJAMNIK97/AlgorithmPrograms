@@ -1,0 +1,7 @@
+﻿namespace AlgorithmPrograms
+{
+    class Program
+    {
+         
+    }
+}
