@@ -25,7 +25,7 @@ namespace AlgorithmPrograms
                 array[j + 1] = value;
             }
         }
-        public static void Main(string[] args)
+        public static void xyz()
         {
             string[] name = { "vikaram", "Shubham", "Amol", "Jay Dip", "Manoj" };
             InsertSort(name);
